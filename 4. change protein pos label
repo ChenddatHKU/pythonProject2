@@ -1,0 +1,26 @@
+def list2string(l):
+  newl = []
+  for i in l:
+    newl.append(str(i))
+  return newl
+
+
+outfileC = open('/Users/tmp_flu3MC/flu3MC_T4','r')   #change the location of outfile, but do not change the file name.
+outfileM = open('/Users/tmp_flu3MC/changed pos', 'w')
+
+header = outfileC.readline()   # if I define the first line as header, when do readlines, python will skip headers automatically.
+outfileM.write(header + '\n')   #remember to add \n,
+
+for line in outfileC.readlines():
+    F1 = "".join(list2string(line.rstrip().rsplit("\t")[2]))
+    pos = (F1[1:-1])
+    posint = str(int(float(pos)))
+    F1new = F1[0] + posint + F1[-1]
+
+    outlist = line.rstrip().rsplit('\t')
+    outlist[2] = F1new
+    out = "\t".join(outlist)
+    outfileM.write(out + '\n')
+
+outfileC.close()
+outfileM.close()
