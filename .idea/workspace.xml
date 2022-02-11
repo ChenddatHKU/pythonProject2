@@ -26,83 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="828e6ee6-9be5-4521-97ba-2b17294878b6" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/dissecting source codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/dissecting source codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PA alignment.py" afterDir="false" />
     </list>
-    <list id="f5298c93-3e22-45ff-9375-91bca4d95d13" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit d7c27dc3">
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/f2py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/f2py3.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/natsort" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/numba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pt2to3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/ptdump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/ptrepack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pttree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pycc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/runxlrd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/tqdm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/transformseq" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/weblogo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/3d_drawing/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/3d_drawing/mayavi2_spring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/3d_drawing/plot_basic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/WormNet.v3.benchmark.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_beam_search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_betweenness_centrality.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_circuits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_davis_club.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_iterated_dynamical_systems.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_krackhardt_centrality.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_parallel_betweenness.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_rcm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/basic/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/basic/plot_properties.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/basic/plot_read_write.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/basic/plot_simple_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/chess_masters_WCC.pgn.bz2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/knuth_miles.txt.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_chess_masters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_custom_node_icons.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_degree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_directed.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_eigenvalues.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_four_grids.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_house_with_colors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_knuth_miles.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_labels_and_colors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_multipartite_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_node_colormap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_rainbow_coloring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_random_geometric_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_sampson.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_selfloops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_simple_path.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_spectral_grid.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_unix_email.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_weighted_graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/unix_email.mbox" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_degree_sequence.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_erdos_renyi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_football.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_karate_club.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_roget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/roget_dat.txt.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/words_dat.txt.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/subclass/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/subclass/plot_antigraph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/subclass/plot_printgraph.py" beforeDir="false" />
-    </list>
+    <list id="f5298c93-3e22-45ff-9375-91bca4d95d13" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit d7c27dc3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +66,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/7.logo plt.py" />
   </component>
@@ -289,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643511571865</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1644545215668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644545215668</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1644545248143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644545248143</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
