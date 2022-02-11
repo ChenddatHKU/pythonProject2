@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:modified" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="828e6ee6-9be5-4521-97ba-2b17294878b6" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/dissecting source codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/dissecting source codes.py" afterDir="false" />
+    </list>
+    <list id="f5298c93-3e22-45ff-9375-91bca4d95d13" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit d7c27dc3">
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/f2py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/f2py3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/natsort" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/numba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pt2to3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/ptdump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/ptrepack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pttree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pycc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/runxlrd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/tqdm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/transformseq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/weblogo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/3d_drawing/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/3d_drawing/mayavi2_spring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/3d_drawing/plot_basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/WormNet.v3.benchmark.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_beam_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_betweenness_centrality.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_circuits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_davis_club.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_iterated_dynamical_systems.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_krackhardt_centrality.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_parallel_betweenness.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/algorithms/plot_rcm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/basic/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/basic/plot_properties.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/basic/plot_read_write.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/basic/plot_simple_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/chess_masters_WCC.pgn.bz2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/knuth_miles.txt.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_chess_masters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_custom_node_icons.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_degree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_directed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_eigenvalues.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_four_grids.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_house_with_colors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_knuth_miles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_labels_and_colors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_multipartite_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_node_colormap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_rainbow_coloring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_random_geometric_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_sampson.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_selfloops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_simple_path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_spectral_grid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_unix_email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/plot_weighted_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/drawing/unix_email.mbox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_degree_sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_erdos_renyi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_football.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_karate_club.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_roget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/plot_words.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/roget_dat.txt.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/graph/words_dat.txt.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/subclass/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/subclass/plot_antigraph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/share/doc/networkx-2.6.3/examples/subclass/plot_printgraph.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="b458393b76125e355ddc5ac8494ae93e854cf03f" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1hDZTpzb7yL5iV4C8uH0FXe7jQX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/7.logo plt.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Desktop" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$USER_HOME$/LowFreMut/screening/Normalized to Dep" />
+      <recent name="$USER_HOME$/LowFreMut/script" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dissecting source codes">
+    <configuration name="analyze 3k PBMC data" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analyze 3k PBMC data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dissect befor running" type="PythonConfigurationType" factoryName="Python">
+      <module name="chendd_ErroCorrection_codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dissect before running.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dissecting source codes" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythonProject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dissecting source codes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mapper2" type="PythonConfigurationType" factoryName="Python">
+      <module name="chendd_ErroCorrection_codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mapper2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mapper3" type="PythonConfigurationType" factoryName="Python">
+      <module name="chendd_ErroCorrection_codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mapper3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.analyze 3k PBMC data" />
+      <item itemvalue="Python.dissect befor running" />
+      <item itemvalue="Python.dissecting source codes" />
+      <item itemvalue="Python.mapper2" />
+      <item itemvalue="Python.mapper3" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="828e6ee6-9be5-4521-97ba-2b17294878b6" name="Default Changelist" comment="" />
+      <created>1599547633492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599547633492</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1643506324904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643506324904</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1643511571865</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643511571865</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="282" key="#Notifications" timestamp="1643506251552">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="428" y="282" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1643506251552" />
+    <state x="180" y="144" width="1071" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643877365351">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="180" y="144" width="1071" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1643877365351" />
+    <state x="260" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643508746407">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="260" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1643508746407" />
+    <state x="243" y="25" key="CommitChangelistDialog2" timestamp="1643506883605">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="243" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1643506883605" />
+    <state width="636" height="442" key="Diff.GoToChangePopup" timestamp="1643508082026">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="636" height="442" key="Diff.GoToChangePopup/0.0.1440.900@0.0.1440.900" timestamp="1643508082026" />
+    <state x="144" y="78" width="1152" height="720" key="DiffContextDialog" timestamp="1643508527739">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="78" width="1152" height="720" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1643508527739" />
+    <state x="525" y="361" key="Github.CreateGistDialog" timestamp="1643510810824">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="525" y="361" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1643510810824" />
+    <state x="593" y="345" key="Github.ShareDialog" timestamp="1643511669618">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="593" y="345" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1643511669618" />
+    <state x="593" y="337" key="Github.ShareDialog/0.23.1440.819@0.23.1440.819" timestamp="1641459028138" />
+    <state x="521" y="136" key="Github.UntrackedFilesDialog" timestamp="1641459055939">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="521" y="136" key="Github.UntrackedFilesDialog/0.23.1440.819@0.23.1440.819" timestamp="1641459055939" />
+    <state width="1419" height="256" key="GridCell.Tab.0.bottom" timestamp="1644503680563">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="256" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1644503680563" />
+    <state width="1419" height="286" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1642409336853" />
+    <state width="1419" height="256" key="GridCell.Tab.0.center" timestamp="1644503680562">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="256" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1644503680562" />
+    <state width="1419" height="286" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1642409336853" />
+    <state width="1419" height="256" key="GridCell.Tab.0.left" timestamp="1644503680562">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="256" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1644503680562" />
+    <state width="1419" height="286" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1642409336852" />
+    <state width="1419" height="256" key="GridCell.Tab.0.right" timestamp="1644503680562">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="256" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1644503680562" />
+    <state width="1419" height="286" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1642409336853" />
+    <state width="1419" height="286" key="GridCell.Tab.1.bottom" timestamp="1643966675438">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1643966675438" />
+    <state width="1419" height="286" key="GridCell.Tab.1.bottom/0.23.1440.819@0.23.1440.819" timestamp="1642409336854" />
+    <state width="1419" height="286" key="GridCell.Tab.1.center" timestamp="1643966675436">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1643966675436" />
+    <state width="1419" height="286" key="GridCell.Tab.1.center/0.23.1440.819@0.23.1440.819" timestamp="1642409336853" />
+    <state width="1419" height="286" key="GridCell.Tab.1.left" timestamp="1643966675436">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1643966675436" />
+    <state width="1419" height="286" key="GridCell.Tab.1.left/0.23.1440.819@0.23.1440.819" timestamp="1642409336853" />
+    <state width="1419" height="286" key="GridCell.Tab.1.right" timestamp="1643966675437">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1643966675437" />
+    <state width="1419" height="286" key="GridCell.Tab.1.right/0.23.1440.819@0.23.1440.819" timestamp="1642409336853" />
+    <state x="308" y="184" key="IDE.errors.dialog" timestamp="1641820078388">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="308" y="184" key="IDE.errors.dialog/0.23.1440.819@0.23.1440.819" timestamp="1641820078388" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1643509232413">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1643509232413" />
+    <state x="221" y="104" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1642648923887" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1643511759165">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1643511759165" />
+    <state x="144" y="96" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1643508527740">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="96" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1643508527740" />
+    <state x="517" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643505984197">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="517" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1643505984197" />
+    <state x="468" y="171" key="git4idea.branch.GitSmartOperationDialog" timestamp="1643507157833">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="468" y="171" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1643507157833" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1643274591803">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1643274591803" />
+  </component>
+</project>
